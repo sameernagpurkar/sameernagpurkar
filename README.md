@@ -24,6 +24,8 @@
 ### 🛠️ Languages and Tools:
 ### 🛠️ Languages and Tools:
 <p align="center">
+### 🛠️ Languages and Tools:
+<p align="center">
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
    </a>
@@ -48,6 +50,9 @@
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
    </a>
+   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+   </a>
 </p>
 
 
@@ -64,8 +69,10 @@
 ---
 
 ### 🤝 Connect with Me:
+### 📫 Connect with Me:
 <p align="center">
-   <a href="https://linkedin.com/in/sameernagpurkar2804" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" width="50" height="50"/>
+   <a href="https://linkedin.com/in/sameernagpurkar2804" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60"/>
    </a>
 </p>
+
