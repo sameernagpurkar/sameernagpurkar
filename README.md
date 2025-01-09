@@ -69,9 +69,15 @@
 ---
 
 ### 📫 Connect with Me:
+### 📫 Connect with Me:
 <p align="center">
    <a href="https://linkedin.com/in/sameernagpurkar2804" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60"/>
    </a>
 </p>
+
+<p align="center">
+   <img src="https://media.giphy.com/media/xT0BKqhdlKCxCNsVTq/giphy.gif" alt="Thank You GIF" width="400"/>
+</p>
+
 
