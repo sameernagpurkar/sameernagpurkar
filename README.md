@@ -18,8 +18,6 @@
 - 🤝 Open to **collaborate on exciting projects**   
 - 📫 How to reach me:  
   - **Email:** sameernagpurkar28@gmail.com  
-  - **X (Twitter):** [@Sameer2850](https://x.com/Sameer2850?t=lGdK4vt77HukTt40Vel2mA&s=09)  
-  - **Instagram:** [@sameernagpurkar_](https://www.instagram.com/sameernagpurkar_/profilecard/?igsh=MXB5bTV1d29uanZvMQ==)  
 - ⚡ Fun fact: **I find the semicolon `;` both a friend and a foe in programming!**
  
 
@@ -75,6 +73,14 @@
    <a href="https://linkedin.com/in/sameernagpurkar2804" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60"/>
    </a>
+   <a href="https://x.com/Sameer2850?t=lGdK4vt77HukTt40Vel2mA&s=09" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="X (Twitter)" width="60" height="60"/>
+   </a>
+   <a href="https://www.instagram.com/sameernagpurkar_/profilecard/?igsh=MXB5bTV1d29uanZvMQ==" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="60" height="60"/>
+   </a>
+</p>
+
 </p>
 
 <p align="center">
