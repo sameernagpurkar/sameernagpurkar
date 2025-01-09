@@ -16,8 +16,7 @@
 ### 👨‍💻 About Me:
 - 🔭 I’m currently working on **AI-Powered Personalized Diet Planner**   
 - 🤝 Open to **collaborate on exciting projects**   
-- 📫 How to reach me:  
-  - **Email:** sameernagpurkar28@gmail.com  
+- 📫 How to reach me: **Email:** sameernagpurkar28@gmail.com  
 - ⚡ Fun fact: **I find the semicolon `;` both a friend and a foe in programming!**
  
 
