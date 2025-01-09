@@ -71,15 +71,16 @@
 ### 📫 Connect with Me:
 <p align="center">
    <a href="https://linkedin.com/in/sameernagpurkar2804" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50"/>
    </a>
    <a href="https://x.com/Sameer2850?t=lGdK4vt77HukTt40Vel2mA&s=09" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="X (Twitter)" width="60" height="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/X_logo_2023.svg" alt="X (Twitter)" width="50" height="50"/>
    </a>
    <a href="https://www.instagram.com/sameernagpurkar_/profilecard/?igsh=MXB5bTV1d29uanZvMQ==" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="60" height="60"/>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="50" height="50"/>
    </a>
 </p>
+
 
 </p>
 
