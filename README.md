@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sameer Nagpurkar</h1>
-<h3 align="center">A 4th Year Computer Science Engineering Student | Technology Enthusiast</h3>
+<h1 align="center">Hey! Welcome, Nice to see you.</h1>
+<h2 align="center">I'm Sameer Nagpurkar</h2>
+<h3 align="center">4th Year CSE Student | Technology Enthusiastic</h3>
 
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=sameernagpurkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
