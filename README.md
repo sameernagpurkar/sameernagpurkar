@@ -68,7 +68,6 @@
 
 ---
 
-### 🤝 Connect with Me:
 ### 📫 Connect with Me:
 <p align="center">
    <a href="https://linkedin.com/in/sameernagpurkar2804" target="_blank" rel="noreferrer">
