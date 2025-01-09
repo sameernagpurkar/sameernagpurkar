@@ -66,11 +66,15 @@
    <a href="https://github.com/sameernagpurkar" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-alt.svg" alt="GitHub" width="40" height="40"/>
    </a>
+</p>
+
+<p align="center">
    <a href="https://x.com/Sameer2850?t=lGdK4vt77HukTt40Vel2mA&s=09" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X (Twitter)" width="40" height="40"/>
+      <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="X (Twitter)" width="40" height="40"/> X (Twitter)
    </a>
+   &nbsp;&nbsp;&nbsp;
    <a href="https://www.instagram.com/sameernagpurkar_/profilecard/?igsh=MXB5bTV1d29uanZvMQ==" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="Instagram" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="Instagram" width="40" height="40"/> Instagram
    </a>
 </p>
 
