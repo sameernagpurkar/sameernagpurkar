@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-   <img src="https://media.giphy.com/media/f9Tkfg88HaiaElRl12/giphy.gif" alt="Thank You GIF" width="400"/>
+   <img src="https://media.giphy.com/media/9Vf2laovD23Yr3jeVJ/giphy.gif" alt="Thank You GIF" width="400"/>
 </p>
 
 
