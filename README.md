@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameer Nagpurkar</h1>
-<h3 align="center">4th Year CSE Student | MERN Stack Developer</h3>
+<h3 align="center">4th Year CSE Student | Technology Enthusiastic</h3>
 
 <p align="center"> 
    <img src="https://komarev.com/ghpvc/?username=sameernagpurkar&label=Profile%20views&color=0e75b6&style=flat" alt="sameernagpurkar" /> 
