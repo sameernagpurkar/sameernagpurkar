@@ -1,5 +1,5 @@
-<h1 align="center">Hey! Welcome, Nice to see you.</h1>
-<h2 align="center">I'm Sameer Nagpurkar</h2>
+<h1 align="center">👋Hey! Welcome, Nice to see you.</h1>
+<h2 align="center">I'm Sameer Nagpurkar 😎</h2>
 <h3 align="center">4th Year CSE Student | Technology Enthusiastic</h3>
 
 <p align="center"> 
@@ -14,8 +14,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **AI-Powered Personalized Diet Planner**  
-- 🌱 I’m learning **Data Structures and Algorithms (DSA)**  
+- 🔭 I’m currently working on **AI-Powered Personalized Diet Planner**   
 - 🤝 Open to **collaborate on exciting projects**   
 - 📫 How to reach me: **sameernagpurkar28@gmail.com**  
 - ⚡ Fun fact: **I find the semicolon `;` both a friend and a foe in programming!**  
