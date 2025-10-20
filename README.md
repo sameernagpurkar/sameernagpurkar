@@ -1,11 +1,6 @@
-<h1 align="center">👋Hey! Welcome, Nice to see you.</h1>
+<h1 align="center">👋 Hey! Welcome, Nice to see you.</h1>
 <h2 align="center">I'm Sameer Nagpurkar 😎</h2>
-<h3 align="center">4th Year CSE Student | Technology Enthusiastic</h3>
-
-<p align="center"> 
-   <img src="https://komarev.com/ghpvc/?username=sameernagpurkar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
-   <img src="https://github-profile-trophy.vercel.app/?username=sameernagpurkar&theme=gruvbox&margin-w=15&margin-h=15&row=2&column=3" alt="Trophy" />
-</p>
+<h3 align="center">Computer Science Graduate | Tech Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
    <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding GIF" width="300"/>
@@ -14,15 +9,14 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **AI-Powered Personalized Diet Planner**   
-- 🤝 Open to **collaborate on exciting projects**   
-- 📫 How to reach me: sameernagpurkar28@gmail.com  
-- ⚡ Fun fact: **I find the semicolon `;` both a friend and a foe in programming!**
- 
+- 🎓 Completed **B.E. in Computer Science and Engineering**
+- 💡 Passionate about **AI, Web Development, and Cloud Technologies**
+- 🤝 Open to **collaborate on innovative projects** or **explore new opportunities**
+- 📫 Reach me at: **sameernagpurkar28@gmail.com**
+- ⚡ Fun fact: I find the semicolon `;` both a friend and a foe in programming!
 
 ---
-### 🛠️ Languages and Tools:
-<p align="center">
+
 ### 🛠️ Languages and Tools:
 <p align="center">
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -54,17 +48,6 @@
    </a>
 </p>
 
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=sameernagpurkar&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameernagpurkar&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ---
 
 ### 📫 Connect with Me:
@@ -80,10 +63,7 @@
    </a>
 </p>
 
-
-
-
-</p>
+---
 
 <p align="center">
    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFtajRlMDlqeWtjYmZ5MmF6OHNiMWE4NzJmdHU5MG5rNXJlajg0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fQ1RLeylZsbDctAADh/giphy.gif" alt="Thank You GIF" width="400"/>
